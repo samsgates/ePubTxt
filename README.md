@@ -12,4 +12,9 @@ Pre-Request:
 2. Internet connection
 
 
-Project Details : http://epubfix.blogspot.com/search/label/ePubTxt
+Project Details : 
+http://epubfix.blogspot.com/search/label/ePubTxt
+
+
+Prerequisite: 
+https://github.com/ComponentFactory/Krypton
